@@ -1,0 +1,6 @@
+gym==0.26.2
+matplotlib==3.8.4
+numpy==2.1.1
+procgen==0.10.7
+tensorflow==2.16.1
+tensorflow_intel==2.16.1
